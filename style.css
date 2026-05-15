@@ -411,6 +411,11 @@
       display: flex;
       justify-content: center;
     }
+
+   .hero h1 {
+      font-size: 52px;
+      line-height: 1;
+   }
   
     .navbar img {
       justify-content: center;

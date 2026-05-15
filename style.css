@@ -407,6 +407,10 @@
       justify-content: center;
     }
 
+   .body {
+      max-widht: 768px;
+   }
+
     .logo {
       display: flex;
       justify-content: center;

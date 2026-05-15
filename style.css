@@ -408,7 +408,11 @@
     }
 
    .body {
-      max-widht: 768px;
+      widht: 100%;
+   }
+
+   .hero {
+      widht: 100%
    }
 
     .logo {

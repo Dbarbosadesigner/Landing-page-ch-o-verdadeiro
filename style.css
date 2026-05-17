@@ -47,14 +47,9 @@ header {
   white-space: nowrap;
 }
 
-/*
-
 .logo img {
   max-width: 200px;
-  min-width: 150px;
 }
-  
-*/
 
 .logo span {
   color: #fff;
@@ -414,6 +409,7 @@ footer {
   .logo img {
     max-width: 150px;
     min-width: 120px;
+    justify-content: center;
   }
 
   .menu-toggle {

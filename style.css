@@ -47,10 +47,14 @@ header {
   white-space: nowrap;
 }
 
+/*
+
 .logo img {
   max-width: 200px;
   min-width: 150px;
 }
+  
+*/
 
 .logo span {
   color: #fff;

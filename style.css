@@ -406,10 +406,14 @@ footer {
     width: 100%;
   }
 
-  .logo img {
-    max-width: 150px;
-    min-width: 120px;
+  .logo {
+    display: flex;
     justify-content: center;
+    width: 100%;
+  }
+
+  .logo img {
+    margin: auto;
   }
 
   .menu-toggle {
